@@ -1,0 +1,11 @@
+1. Hacer un Notebook para el primer dataset (BiciMAD) ✔✔
+
+2. Hacer un Notebook para el segundo dataset (Biciparks) ✔✔
+
+3. Hacer un Notebook para la API (Templos - Instalaciones NO municipales) ✔✔
+
+4. Hacer Notebook con las funciones ✔✔
+
+5. Diseñar en papel el Pipeline ✔✔
+
+6. Entregar los Labs/Workshops así estén a medias ✔✔

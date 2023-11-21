@@ -1,0 +1,409 @@
+,Place of interest,Postal code,Place address,place_lat,place_long
+0,Sede QuedaT.com Chamartín,28002,Pasaje Doña Carlota 13,40.447906726663575,-3.6631712286014215
+1,"A (mas) ECU control urbanístico, S.L. Entidad Colaboradora",28033,Calle Añastro 11 Planta Baja Puerta 10,40.46804636877346,-3.6632423666024976
+2,"APFMPS, Residencia, centro de día y centro ocupacional Instituto Doctor Quintero Lumbreras",28049,Carretera Colmenar Viejo 13.6,40.56299317375062,-3.7140517146418874
+3,ASPAYM Madrid (Asociación de Parapléjicos y Personas con Gran Discapacidad Física de la Comunidad de Madrid),28038,Camino Valderribas 115,40.394474188113975,-3.6561342020450107
+4,Administración Ciudad Lineal. AEAT,28016,Calle Uruguay 16,40.454894174189924,-3.672453700423445
+5,Administración Fermín Caballero. AEAT,28034,Calle Fermin Caballero 66,40.48314873363959,-3.710549528504344
+6,Administración Guzmán el Bueno. AEAT,28003,Calle Guzman El Bueno 139,40.445472489278124,-3.7124852981854684
+7,Administración María de Molina. AEAT,28006,Calle Nuñez De Balboa 116,40.43718023263375,-3.6816798948244314
+8,Administración Montalbán. AEAT,28014,Calle Montalban 6,40.41790255579091,-3.690676090761533
+9,Administración Sudeste. AEAT,28030,Calle Camino De Los Vinateros 51,40.41087815519668,-3.6538853965125915
+10,Administración Suroeste. AEAT,28044,Calle Aguacate 27,40.37051476141239,-3.745760628757405
+11,Aeropuerto Adolfo Suarez Madrid -  Barajas,28042,Avenida Hispanidad,40.46820334584188,-3.5696317070849624
+12,Alicia Koplowitz Centro de día y centro residencial de Esclerosis Múltiple de la Comunidad de Madrid,28032,Bulevar Jose Prat 40,40.39614339736402,-3.6197515223307275
+13,Aparcamiento público Saba Estación Ferroviaria Madrid Chamartín,28036,Calle Agustin De Foxa 34,40.47067226303316,-3.6847852918121404
+14,Aparcamiento público Saba Estación Madrid Atocha P2 y P3,28014,Paseo Infanta Isabel  Sin Número,40.40561195909846,-3.687590105606522
+15,Aparcamiento público de Metro de Madrid. Miguel Hernández,28018,Avenida Albufera 270,40.38704235037171,-3.639991592687951
+16,Aparcamiento público. Plaza Ramón y Cajal (Ciudad Universitaria),28040,Plaza Ramon Y Cajal 1,40.44451127873064,-3.7262019812409104
+17,"Asociación esclerosis múltiple Madrid, centro de rehabilitación",28034,Calle Sangenjo 36 Planta 1º,40.48753110350201,-3.6985691585465794
+18,Auditorio Nacional de Música,28002,Calle Principe De Vergara 146,40.44615938706209,-3.6779448874160314
+19,Biblioteca Central y Servicio de Documentación del Ministerio del Interior,28010,Calle Amador De Los Rios 7,40.42744034262133,-3.6913494112390763
+20,Biblioteca Nacional de España,28001,Paseo Recoletos 20,40.423003507448364,-3.6908364756092715
+21,Biblioteca Pública Antonio Mingote (Latina),28044,Calle Rafael Finat 51,40.37944179159947,-3.7694389972002424
+22,Biblioteca Pública Elena Fortún (Retiro),28007,Calle Doctor Esquerdo 189,40.403577814444176,-3.6724086076957154
+23,Biblioteca Pública Hortaleza,28033,Calle Abertura 2,40.47719279779815,-3.6496196128895835
+24,Biblioteca Pública Javier Marías (Moratalaz),28030,Calle Corregidor Alonso De Tobar 5,40.403992358842835,-3.6494384856607582
+25,Biblioteca Pública José Hierro (Usera),28026,Avenida Rafaela Ybarra 43,40.38188230129181,-3.7106157111470615
+26,Biblioteca Pública José Luis Sampedro (Chamberí),28010,Calle Felipe El Hermoso 4,40.435399621146054,-3.69966592825407
+27,Biblioteca Pública Luis Martín Santos (Villa de Vallecas),28031,Plaza Antonio Maria Segovia 2,40.38092043731836,-3.6136725045662423
+28,Biblioteca Pública Luis Rosales (Carabanchel),28044,Calle Antonia Rodriguez Sacristan 7 Y 9,40.37342554545538,-3.7480707331054375
+29,Biblioteca Pública María Moliner (Villaverde),28021,Calle Villalonso 16,40.34952488592754,-3.7101159464904097
+30,Biblioteca Pública Miguel Hernández (Puente de Vallecas),28018,Avenida Rafael Alberti 36,40.38449744232138,-3.642917675006409
+31,Biblioteca Pública Pedro Salinas (Centro),28005,Glorieta Puerta De Toledo 1,40.407095978373384,-3.7110439355238602
+32,Biblioteca Pública Rafael Alberti (Fuencarral - El Pardo),28034,Calle Sangenjo 38,40.48785071405995,-3.6985735344788924
+33,Biblioteca Pública Ruiz Egea (Chamberí),28003,Calle Raimundo Fernandez Villaverde 6,40.44660265004691,-3.702878714068386
+34,Biblioteca Pública del Estado Manuel Alvar  (Salamanca),28028,Calle Azcona 42,40.4344013219248,-3.6689700985764175
+35,Biblioteca de la Facultad de Derecho de la Universidad Complutense de Madrid,28040,Plaza Menendez Pelayo 4,40.45029942937783,-3.7307676043691123
+36,Biblioteca de la Real Academia de Jurisprudencia y Legislación,28014,Calle Marques De Cubas 13,40.41749648159225,-3.6955027540085243
+37,Biblioteca del Centro de Estudios Políticos y Constitucionales,28013,Plaza Marina Española 9,40.42063654129458,-3.7124503472242387
+38,Biblioteca del Congreso de los Diputados,28014,Calle Floridablanca 1,40.41669237524251,-3.6973803856575187
+39,Biblioteca del Consejo General del Poder judicial,28004,Calle Marques De La Ensenada 8,40.42413604278863,-3.692517980456627
+40,Biblioteca del Defensor del Pueblo,28010,Calle Fortuny 22,40.433268128292234,-3.690017893133342
+41,Biblioteca del Instituto Nacional de la Administración Pública (INAP),28012,Calle Atocha 106,40.41007752272252,-3.6947545803257142
+42,Biblioteca del Senado,28013,Calle Bailen 3,40.421464737341886,-3.712553386867105
+43,Biblioteca del Tribunal Supremo,28004,Plaza Villa De Paris 1,40.42474395663221,-3.693302246719095
+44,Biblioteca del Tribunal de Cuentas,28006,Calle Jose Ortega Y Gasset 100,40.42952490187533,-3.670881135626959
+45,CaixaForum Madrid,28014,Paseo Prado 36,40.41100296472787,-3.6933720637143432
+46,Capilla de San Isidro,28005,Calle Aguila 1,40.410034722621276,-3.711938408934679
+47,Casa de México,28015,Calle Alberto Aguilera 20,40.430110282172656,-3.7095487700127783
+48,Casón del Buen Retiro.,28014,Calle Alfonso Xii 28,40.41527545361461,-3.689222446432277
+49,Centro Concertado de Atención a las Adicciones (CCAD) Casa de Campo (Cruz Roja),28011,Avenida Portugal,40.41633059885888,-3.7239914257003304
+50,Centro de Atención e Información de la Agencia de la Seguridad Social (CAISS) nº 13 Centro,28014,Calle Cedaceros 11,40.416866995959474,-3.698301573011227
+51,Centro de Día Privado 'Casa de las Flores',28015,Calle Rodriguez San Pedro 72,40.43200253545766,-3.7165599011833264
+52,Centro de Día Privado 'DomusVi Albufera',28053,Calle Sierra De Alcubierre 8,40.39194732029242,-3.667904105178595
+53,Centro de Día Privado 'DomusVi Maestranza',28007,Calle Tellez 30 Planta Posterior - Local 16,40.402052363747195,-3.6792698585039747
+54,Centro de Día Privado 'Florencia',28030,Calle Florencia 24,40.40176060620903,-3.6272625412717243
+55,Centro de Día Privado 'Los Nogales Hortaleza',28033,Calle Alcobendas 12,40.47582051867201,-3.6421290193379554
+56,Centro de Día Privado 'Muguet',28044,Calle Muguet 7,40.36978284802807,-3.746558698400538
+57,Centro de Día Privado 'Reina Sofía',28020,Calle Infanta Mercedes 26,40.4555604310988,-3.6983481951101194
+58,Centro de Día Privado 'Sanivida Arganzuela',28045,Calle Puerto De La Cruz Verde 14 Planta Bajo,40.386773114397414,-3.6868687170587204
+59,Centro de Día Privado 'Sanivida Chamberí',28010,Calle Palafox 17 Planta Bajo,40.43146067633886,-3.7014352600946023
+60,Centro de Día Privado 'Trébol',28021,Calle Palomares 71,40.347849280787266,-3.7143685515861202
+61,Centro de Educación Especial El Despertar,28024,Calle Adonis 1,40.3866197264309,-3.773910285133272
+62,Centro de Educación de Personas Adultas (CEPA) Distrito Centro,28015,Calle San Bernardo 70 Planta 2,40.426986172289,-3.7064088965008097
+63,Centro de Educación de Personas Adultas (CEPA) Hortaleza - Mar Amarillo,28033,Calle Mar Amarillo 21,40.474711439309345,-3.641055179806186
+64,Centro de Natación Mundial 86 (M - 86),28007,Calle Jose Martinez De Velasco 3,40.41552303421355,-3.6671968290312114
+65,Centro de atención e información de la Agencia de la Seguridad Social (CAISS) nº 14 Maldonado,28006,Calle Maldonado 2,40.43393116557997,-3.686086823401631
+66,Centro de atención e información de la Agencia de la Seguridad Social (CAISS) nº 15 Delicias - Usera,28026,Calle Amor Hermoso 52 Y 54,40.384625951256176,-3.7038474045816145
+67,Centro de atención e información de la Agencia de la Seguridad Social (CAISS) nº 4 Vallecas,28038,Calle Picos De Europa 49,40.39442516063908,-3.6584196437372194
+68,Centro de atención e información de la Agencia de la Seguridad Social (CAISS) nº 5 Ciudad Lineal,28037,Calle Miguel Fleta 3,40.4315355922531,-3.6322195769740615
+69,Centro de atención e información de la Agencia de la Seguridad Social (CAISS) nº 7 Carabanchel,28019,Avenida Pedro Diez 19,40.391179954908424,-3.7307325852153976
+70,Centro de atención e información de la Agencia de la Seguridad Social (CAISS) nº 8 Villaverde,28021,Avenida Real De Pinto 7 Y 9,40.348377419523,-3.7061198205383286
+71,Centro de donación de sangre de Cruz Roja,28040,Calle Juan Montalvo 3,40.447642769807906,-3.709876518039568
+72,Centro de donación de sangre de Cruz Roja Fin de Semana,28010,Calle Fuencarral 120,40.42994145019859,-3.702571998641466
+73,Centro de día Argüelles,28015,Calle Andres Mellado 31,40.433632354786965,-3.7145917775331463
+74,Centro de día Funprodami,28018,Calle Garcia Miranda 4,40.38303190435413,-3.6641521212637627
+75,Centro de día San Alfonso,28026,Avenida Rafaela Ybarra 75 Planta Bajo,40.37843484951819,-3.7115108307648805
+76,Centro de día para mayores Saraiva,28028,Calle Fundadores 10,40.424592387086726,-3.667222188160351
+77,Centro de día y centro de rehabilitación Fundación Manantial para personas con trastorno mental grave de Barajas,28042,Plaza Hermanos Falco Y Alvarez De Toledo 1,40.4735113714068,-3.57805132010274
+78,Centro de día y centro ocupacional para la atención al funcionamiento de personas con patología dual Pardo Valcarce,28049,Calle Monasterio De Las Huelgas 15,40.50249241884712,-3.7079930058533064
+79,Centro de día y residencia Medinaceli para personas con discapacidad intelectual,28040,Calle Estudiantes 3,40.44672150500691,-3.712527732281532
+80,"Centro de día, centro ocupacional y residencia APADEMA",28034,Calle Moralzarzal 73,40.49542944104566,-3.7153060034676466
+81,Centro de enseñanza CESUR - Madrid II,28037,Calle Albarracin 27,40.43445899511168,-3.63240954746565
+82,Centro de rehabilitación INDANE,28003,Calle Vallehermoso 100 Planta Baja,40.43959649590148,-3.7080805370600967
+83,Centro de rehabilitación Orpea Madrid Mirasierra,28035,Avenida Ventisquero De La Condesa 46 Planta Baja,40.49467303163574,-3.7179277349273487
+84,Centro de rehabilitación y recuperación y residencia Medinaceli,28038,Calle Ramirez Tome 38,40.388780583826545,-3.6465118794444407
+85,Centro ocupacional y residencia Carabanchel,28025,Calle General Ricardos 177,40.385207193828954,-3.7364894865229403
+86,Centro ocupacional y residencia Fundación ALAS Madrid,28030,Calle Encomienda De Palacios 235,40.39771732231811,-3.635794572225089
+87,Cine Cinesa Las Rosas,28032,Avenida Guadalajara 2,40.41851857456756,-3.6224973167642536
+88,Cine Cinesa Manoteras,28050,Avenida Manoteras 40,40.48605015845937,-3.665403458638993
+89,Cine Cinesa Méndez Álvaro,28045,Calle Acanto 2,40.396541482879385,-3.6755567794919757
+90,Cine Cinesa Proyecciones,28010,Calle Fuencarral 136,40.431491248346006,-3.703242682577312
+91,Cine La Vaguada,28029,Avenida Monforte De Lemos 36,40.47903297218874,-3.7082641886598307
+92,Club Deportivo Somontes,28035,Carretera El Pardo 43,40.49230674162198,-3.7572046269857293
+93,Colegio Comunidad Infantil Villaverde,28021,Calle Villastar 10,40.34328097682067,-3.7115534315675056
+94,Colegio Diocesano Cristo de la Guía,28032,Calle Ezcaray 3,40.410311030784285,-3.6136821061928113
+95,Colegio El Valle II,28050,Calle Ana De Austria 60,40.500549935141635,-3.653897550903556
+96,Colegio Internacional J.H. Newman,28032,Avenida Guadalajara 28,40.42102171950052,-3.615582949361254
+97,Colegio Jesús María. Calle Hermanos García Noblejas 68,28037,Calle Hermanos Garcia Noblejas 68,40.42972344891397,-3.6324619700868404
+98,Colegio Juan de Valdés,28022,Avenida Canillejas A Vicalvaro 135,40.4265647386469,-3.6100220598048907
+99,Colegio La Salle-La Paloma - Fundación Lara,28005,Calle Paloma 21,40.40813563191565,-3.711858874738309
+100,Colegio Liceo Sorolla B,28035,Calle Nueva Zelanda 21,40.46638366727216,-3.7241393658674182
+101,Colegio Mayor Alcor,28003,Calle General Ampudia 7,40.443245742864015,-3.715255918766616
+102,Colegio Mayor Aquinas (Santo Tomás de Aquino),28040,Calle Leonardo Prieto Castro 6,40.45204759324346,-3.7218395787782304
+103,Colegio Mayor Chaminade,28040,Paseo Juan Xxiii 9,40.44734637151868,-3.7177116209853853
+104,Colegio Mayor Fundación SEPI,28040,Avenida Gregorio Del Amo 2,40.446907485706866,-3.7188228498669362
+105,Colegio Mayor Juan Luis Vives,28036,Calle Francisco Suarez 7,40.46502029145429,-3.6845899986944497
+106,Colegio Mayor Juan XXIII Roncalli,28040,Calle Ramiro De Maeztu 3,40.44903948047641,-3.7180373012857046
+107,Colegio Mayor Loyola,28040,Paseo Juan Xxiii 17,40.45000544910973,-3.7153887868377877
+108,Colegio Mayor Marqués de la Ensenada,28040,Avenida Seneca 18,40.43444043139228,-3.733543743924688
+109,Colegio Mayor Nuestra Señora de Guadalupe,28040,Avenida Seneca 4,40.4365837060789,-3.7255298689626724
+110,Colegio Mayor Nuestra Señora de África,28040,Calle Ramiro De Maeztu 8,40.44834777034175,-3.721755062437034
+111,Colegio Mayor Padre Poveda,28040,Calle Isaac Peral 60,40.442963646266804,-3.7190211475612625
+112,Colegio Mayor Santa María del Pino,28003,Paseo San Francisco De Sales 13,40.44040601048909,-3.7162462206445745
+113,Colegio Mayor Santa Teresa de Jesús,28040,Avenida Seneca 12,40.43522158947955,-3.730558119606541
+114,Colegio Mayor Universitario San Agustín,28040,Travesia Antonio Nebrija 4,40.43672037843154,-3.7276073977792428
+115,Colegio Mayor Universitario San Pablo,28040,Calle Isaac Peral 58,40.442163372591814,-3.7186016905372776
+116,Colegio Mayor Vedruna,28003,Glorieta Presidente Garcia Moreno 2,40.445605369642564,-3.714995329761434
+117,Colegio Mayor África,28040,Calle Ramiro De Maeztu 2,40.44925799673555,-3.7171006978828465
+118,Colegio Oficial de Arquitectos de Madrid (COAM),28004,Calle Hortaleza 63,40.42408121377881,-3.6984906424295754
+119,Colegio Patrocinio de San José,28020,Calle Edgar Neville 24,40.45013907357042,-3.6966077126901413
+120,Colegio Público Arquitecto Gaudí,28016,Calle Rosa Jardon 10,40.46541828100197,-3.669067772820547
+121,Colegio Público Ciudad de Jaén,28041,Calle Madre Rosa Blanco 3,40.37258947821977,-3.701248162459656
+122,Colegio Público Escuelas Bosque,28039,Avenida Santo Angel De La Guarda 4,40.45898733981378,-3.712536881730324
+123,Colegio Público Felipe II,28029,Avenida Asturias 70,40.47290570166502,-3.699341838889918
+124,Colegio Público Fernando el Católico,28015,Calle Fernando El Catolico 16,40.434103689530446,-3.7097392943348284
+125,Colegio Público Fontarrón,28030,Calle Arroyo Fontarron 24,40.39511351284605,-3.6335755702199677
+126,Colegio Público Isabel la Católica,28004,Calle Barcelo 2,40.426642215368176,-3.699722994908341
+127,Colegio Público Jorge Guillén,28029,Avenida El Ferrol 47,40.47531422517472,-3.7077074438048214
+128,Colegio Público Legado Crespo,28005,Paseo Acacias 2,40.404805864280796,-3.7039161461158803
+129,Colegio Público Leopoldo Alas,28017,Calle Pedrezuela 18,40.42824645764569,-3.6534325307123314
+130,Colegio Público Loyola de Palacio,28051,Calle Embalse De Navacerrada 60,40.36064250120841,-3.5984510871197415
+131,Colegio Público Luis Bello,28002,Calle Luis Cabrera 66,40.44368060148635,-3.6735452726272593
+132,Colegio Público Marqués de Suanzes,28027,Avenida Veinticinco De Septiembre 1,40.44309078731439,-3.6245571705517694
+133,Colegio Público Martínez Montañés,28030,Calle Hacienda De Pavones 223,40.40191354205018,-3.6339103602187524
+134,Colegio Público Méjico (México),28027,Avenida Badajoz 74,40.44348651514203,-3.650809049182787
+135,Colegio Público Nuestra Señora de la Paloma,28005,Calle Tabernillas 2,40.4110845196558,-3.711383150975494
+136,Colegio Público Parque Aluche,28024,Calle Quero 47,40.39083157827759,-3.760997850579394
+137,Colegio Público Pinar de San José,28054,Calle Patrimonio De La Humanidad 39,40.36301638063713,-3.764359559786085
+138,Colegio Público Reina Victoria,28006,Calle Principe De Vergara 61,40.43350060791133,-3.679668747386544
+139,Colegio Público San Juan de la Cruz,28016,Calle Honduras 10,40.459537375982286,-3.67954186336266
+140,Colegio Público Tomás Bretón,28005,Calle Alejandro Dumas 4,40.40106583461258,-3.7158617370259046
+141,Colegio Público Virgen del Cerro,28038,Calle Mohernando 1,40.39595533182647,-3.6491021370173584
+142,Colegio Público de Educación Especial Francisco del Pozo,28034,Callejon Domine 6,40.49435246094298,-3.6864068730715593
+143,Colegio Público de Educación Especial Fundación Goyeneche,28037,Calle Arcos De Jalon 22,40.420974388816376,-3.6210638106643493
+144,Colegio Público de Educación Especial María Soriano,28054,Avenida Peseta 30,40.36290495205625,-3.762132345064474
+145,Colegio Sagrado Corazón. Avenida Alfonso XIII.,28016,Avenida Alfonso Xiii 127,40.460028879402834,-3.670972193064647
+146,Colegio Santa María la Blanca,28049,Calle Monasterio De Oseira 17,40.51054166910342,-3.6969116709157026
+147,Colegio Santo Domingo Savio,28017,Calle Santo Domingo Savio 2,40.43032479232779,-3.6345189511919482
+148,Colegio Scuola Materna Italiana de Madrid,28003,Calle Agustin De Betancourt 1,40.442066612982124,-3.695083815448108
+149,Colegio Stella Maris La Gavia,28051,Calle Peñaranda De Bracamonte 9,40.37270234365836,-3.606025847123412
+150,Colegio Tajamar,28038,Calle Pio Felipe 12,40.39676067827939,-3.6500761173002196
+151,Colegio Ártica,28054,Calle Morales 25,40.360583854186764,-3.7561469709080026
+152,Comisaría de Policía (Carabanchel),28025,Calle Padre Amigo 3,40.379768113568105,-3.739993262053216
+153,Comisaría de Policía y Oficina de Tramitación DNI y Pasaporte (Chamartín),28016,Avenida Pio Xii 48,40.46915689606766,-3.6729694095528673
+154,Comisaría de Policía y Oficina de Tramitación DNI y Pasaporte (Ciudad Lineal),28027,Travesia Virgen De La Roca 25 Posterior,40.43520269593105,-3.6564092217855446
+155,Comisaría de Policía y Oficina de Tramitación DNI y Pasaporte (Fuencarral - El Pardo),28035,Calle Mirador De La Reina 4,40.4881100148485,-3.7261926711119475
+156,Comisaría de Policía y Oficina de Tramitación DNI y Pasaporte (Hortaleza),28043,Calle Javier Del Quinto,40.46850680550201,-3.642345049181705
+157,Comisaría de Policía y Oficina de Tramitación DNI y Pasaporte (Latina),28047,Avenida Poblados 51,40.38233079912446,-3.757489014363299
+158,Comisaría de Policía y Oficina de Tramitación DNI y Pasaporte (San Blas - Canillejas),28037,Calle Alberique 20,40.429239862474745,-3.6159089904147423
+159,Comisaría de Policía y Oficina de Tramitación del DNI y Pasaporte (Usera-Villaverde 2),28026,Calle Primitiva Gañan 6,40.38071166272933,-3.7092651262474137
+160,Complejo Deportivo Hockey Somontes de la Comunidad de Madrid,28035,Carretera El Pardo 41,40.486848912529666,-3.7540378095860047
+161,Comunidad de Madrid. Oficina de atención al ciudadano y oficina general de asistencia en materia de registro,28013,Calle Gran Via 3,40.41926056659921,-3.698446204570639
+162,Congreso de los Diputados,28014,Plaza Cortes 1,40.41613046484743,-3.6966842336054686
+163,Consorcio Regional de Transportes Públicos Regulares de Madrid,28003,Plaza Descubridor Diego De Ordas 3 Planta Baja,40.440793481160625,-3.7001445607206938
+164,Círculo de Empresarios,28001,Calle Marques De Villamagna 3 Planta 11,40.42938240691158,-3.687760050252277
+165,Delegación Especial de Madrid. AEAT,28003,Calle Guzman El Bueno 139,40.445472489278124,-3.7124852981854684
+166,Dirección General de Vivienda y Rehabilitación. Comunidad de Madrid,28003,Calle Maudes 17,40.44539205139684,-3.7011974227253477
+167,Escuela Infantil Betaria,28029,Calle Padre Rubio 14,40.470400131156026,-3.6920375063785813
+168,Escuela Infantil Conde de Elda,28029,Calle Ponferrada 16,40.47467208571966,-3.712513909298784
+169,Escuela Infantil Jesús Niño,28027,Calle Florencio Garcia 12,40.43855176869111,-3.6407392927277145
+170,Escuela Infantil Pequeño Koala,28032,Camino Viejo De Vicalvaro 20,40.40486034949131,-3.615412122565672
+171,Espacio Fundación Telefónica,28004,Calle Fuencarral 3,40.42042493125648,-3.701594573150366
+172,Espacio para mayores Las Tablas,28048,Avenida Camino De Santiago 39,40.51973221668713,-3.777683378503506
+173,Estación Sur de Autobuses de Madrid,28045,Calle Mendez Alvaro 83,40.39483972375301,-3.679069176819924
+174,Estación ferroviaria Madrid - Chamartín - Clara Campoamor,28036,Calle Agustin De Foxa,40.472098,-3.68233
+175,Estación ferroviaria Madrid Puerta de Atocha,28012,Plaza Emperador Carlos V,40.406397,-3.690387
+176,Fuente de San Isidro,28019,Paseo Ermita Del Santo 72,40.40061741587043,-3.725670113017977
+177,"Fundación Síndrome de Down, centro ocupacional Tres olivos",28034,Calle Cueva De Montesinos 45,40.499795345175585,-3.6921978697844042
+178,Galería de Arte Orfila,28010,Calle Orfila 3,40.427435513699784,-3.6931973836979677
+179,Hipódromo de la Zarzuela,28040,Avenida Padre Huidobro  S/N Carretera De La Coruña Km. 8,40.46689757043024,-3.758287811881799
+180,Instalación Deportiva Canal de Isabel II,28003,Avenida Filipinas 54,40.44165486323624,-3.705163977451455
+181,Instalación Deportiva San Vicente de Paúl,28025,Calle Pelicano 4,40.38368290304945,-3.7258674678514305
+182,Instalación deportiva para mayores Concepción Arenal,28043,Calle Javier Del Quinto 12 Está Ubicado Dentro Del Centro De Servicios Sociales “Concepción Arenal”,40.46656244589171,-3.6421934745321303
+183,Instituto de Educación Secundaria (IES) Antonio Domínguez Ortiz,28038,Calle Andaluces 36,40.38905798476675,-3.635474656654837
+184,Instituto de Educación Secundaria (IES) Antonio Machado,28044,Calle Alfonso Fernandez 25,40.366615432961616,-3.755460567687772
+185,Instituto de Educación Secundaria (IES) Avenida de los Toreros,28028,Avenida Toreros 57,40.43346107006072,-3.664777722452951
+186,Instituto de Educación Secundaria (IES) Barajas,28042,Avenida America 119,40.45054903333012,-3.5992596959233034
+187,Instituto de Educación Secundaria (IES) Barrio de Bilbao,28017,Calle Villaescusa 20,40.42103061653263,-3.6306477550339884
+188,Instituto de Educación Secundaria (IES) Celestino Mutis,28021,Calle Huerta De Villaverde 15,40.34830726550713,-3.7131487809799326
+189,Instituto de Educación Secundaria (IES) Ciudad Escolar,28049,Carretera Colmenar Viejo 12.800,40.528563960264655,-3.691273586506093
+190,Instituto de Educación Secundaria (IES) Ciudad de Jaén,28041,Camino Rio 5,40.37164844454447,-3.700119741623105
+191,Instituto de Educación Secundaria (IES) Conde de Orgaz,28043,Calle Napoles 56,40.460004213737875,-3.646852131012146
+192,Instituto de Educación Secundaria (IES) Eijo y Garay,28011,Calle Severino Aznar Embid 6,40.407648723183506,-3.737793320457927
+193,Instituto de Educación Secundaria (IES) Fortuny,28010,Calle Fortuny 24,40.43371855186591,-3.690022497468036
+194,Instituto de Educación Secundaria (IES) Francisco Ayala,28054,Calle Jacobeo 33,40.36572364957523,-3.760939176805745
+195,Instituto de Educación Secundaria (IES) García Morato,28044,Calle General Saliquet 34,40.37427307778163,-3.767785010967584
+196,Instituto de Educación Secundaria (IES) Gregorio Marañón,28029,Avenida El Ferrol 43,40.47430854434283,-3.7101034755708167
+197,Instituto de Educación Secundaria (IES) Isaac Newton,28035,Calle Joaquin Lorenzo 2,40.473031533383455,-3.722818756983547
+198,Instituto de Educación Secundaria (IES) Iturralde,28047,Calle Nuestra Señora De La Luz 53,40.386012038462624,-3.751306277710789
+199,Instituto de Educación Secundaria (IES) Joaquín Rodrigo,28032,Calle Casalarreina 28,40.40897549865364,-3.6140942577626016
+200,Instituto de Educación Secundaria (IES) Juana de Castilla,28030,Calle Valdebernardo 3,40.39843146459067,-3.63309996975464
+201,Instituto de Educación Secundaria (IES) Manuel Fraga Iribarne,28050,Avenida Niceto Alcala Zamora 54,40.4994968321812,-3.6569084959295886
+202,Instituto de Educación Secundaria (IES) María Rodrigo,28051,"Calle Talamanca Del Jarama, Esquina Granja De San Ildefonso",40.3669635274679,-3.619625507906445
+203,Instituto de Educación Secundaria (IES) Moratalaz,28030,Calle Corregidor Diego De Valderrabano 35,40.408278182902734,-3.6620902751641093
+204,Instituto de Educación Secundaria (IES) Nuestra Señora de la Almudena,28039,Plaza Remonta 17,40.46401954600425,-3.698400411395519
+205,Instituto de Educación Secundaria (IES) Numancia,28038,Calle Las Marismas 14,40.402204300135466,-3.654488722948694
+206,Instituto de Educación Secundaria (IES) Parque Aluche,28024,Calle Maqueda 86,40.39039761478656,-3.7639621139513095
+207,Instituto de Educación Secundaria (IES) Pedro Salinas,28026,Calle General Marva 24,40.38874886813379,-3.7088034483893
+208,Instituto de Educación Secundaria (IES) Príncipe Felipe,28029,Calle Finisterre 60,40.481962024356015,-3.7034118646526064
+209,Instituto de Educación Secundaria (IES) Renacimiento,28019,Calle Castellflorite 4,40.39366237687734,-3.7384654469356606
+210,Instituto de Educación Secundaria (IES) Salvador Dalí,28027,Calle Verdaguer Y Garcia 2,40.43969816091729,-3.6563968141893874
+211,Instituto de Educación Secundaria (IES) San Cristóbal de los Ángeles,28021,Plaza Pinazo 7,40.34233618931469,-3.6905504735084342
+212,Instituto de Educación Secundaria (IES) San Fernando,28049,Carretera Colmenar Viejo Km.13500,40.528281841913156,-3.6921366876182233
+213,Instituto de Educación Secundaria (IES) San Mateo,28004,Calle Beneficencia 4,40.42559430738693,-3.700195463803624
+214,Instituto de Educación Secundaria (IES) Santa Eugenia,28007,Calle Cerro De Almodovar 5,40.38466865123782,-3.603958826692157
+215,Instituto de Educación Secundaria (IES) Tetuán de las Victorias,28029,Calle Via Limite 14,40.47305798647611,-3.6904958177678564
+216,Instituto de Educación Secundaria (IES) Valdebernardo,28032,Bulevar Indalecio Prieto 1,40.40525429891849,-3.619245830201053
+217,Instituto de Educación Secundaria (IES) Villa de Vallecas,28031,Calle Villarino De Los Aires 14,40.375136477747475,-3.6243415829018666
+218,Instituto de Educación Secundaria (IES) Villaverde,28041,Calle Alianza 20,40.35757164103424,-3.6873613214871783
+219,Instituto de Educación Secundaria (IES) Vista Alegre,28025,Calle General Ricardos 177,40.385197375260255,-3.7364997414123096
+220,Intercambiador de transporte. Aeropuerto T1 - T2 - T3,28042,Avenida Hispanidad 44,40.46820652750678,-3.569628907422605
+221,Intercambiador de transporte. Aeropuerto T4,28042,Carretera M-110 250,40.49131668701571,-3.59363958621678
+222,Intercambiador de transporte. Aluche,28047,Avenida Poblados 41,40.38564275021698,-3.7608183407720306
+223,Intercambiador de transporte. Avenida de América,28002,Intercambiador Avenida De America,40.43794109892889,-3.6767946888578997
+224,Intercambiador de transporte. Chamartín,28036,Calle Agustin De Foxa 40,40.47191331095463,-3.683755078929365
+225,Intercambiador de transporte. Moncloa,28008,Calle Princesa 89,40.434682199701676,-3.7194861136891455
+226,Intercambiador de transporte. Méndez Álvaro - Estación Sur,28045,Calle Mendez Alvaro 83,40.39503740434429,-3.6787398144153616
+227,Intercambiador de transporte. Nuevos Ministerios,28003,Calle Raimundo Fernandez Villaverde 69,40.44658237972204,-3.692173807242225
+228,Intercambiador de transporte. Plaza Elíptica,28026,Plaza Eliptica 3,40.38464977990551,-3.718115468424804
+229,Intercambiador de transporte. Plaza de Castilla,28046,Paseo Castellana 195,40.46776137894982,-3.6888781484103617
+230,Intercambiador de transporte. Príncipe Pío,28008,Paseo Florida 2,40.42104912150731,-3.7205417760154664
+231,Intercambiador de transporte. Puerta del Sol,28013,Intercambiador Puerta Del Sol,40.416770430492726,-3.7028822898409897
+232,Jardines del Campo del Moro,28005,Paseo Virgen Del Puerto En Las Proximidades De La Glorieta De San Vicente,40.41898630733354,-3.719976836914711
+233,La Casa Encendida de la Fundación Montemadrid,28012,Ronda Valencia 2,40.40596221830597,-3.6997720739017033
+234,La Neomudéjar,28007,Calle Antonio Nebrija  Sin Número,40.40472042747244,-3.6836217248988037
+235,Mercado de San Miguel,28005,Plaza San Miguel,40.415691942280155,-3.7092982693030185
+236,"Ministerio de Asuntos Exteriores, Unión Europea y Cooperación. Sede Palacio de Santa Cruz",28012,Plaza Provincia 1,40.41469396807194,-3.7060229025843374
+237,Ministerio de Defensa. Oficina de asistencia en materia de registro,28046,Paseo Castellana 109,40.45551485327102,-3.6909412593195112
+238,Ministerio de Política Territorial. Delegación del Gobierno en Madrid. Oficina de asistencia en materia de registro,28010,Calle Garcia De Paredes 65,40.436658193117246,-3.6920757943233444
+239,Ministerio de Sanidad. Oficina de información,28014,Paseo Prado 18 Planta Baja (Esquina Con Calle Lope De Vega) - 20,40.41372148551758,-3.6940377260440544
+240,Ministerio del Interior. Oficina de asistencia en materia de registro,28010,Calle Amador De Los Rios 7,40.42744034262133,-3.6913494112390763
+241,Movistar Academy Magariños,28006,Calle Serrano 129,40.44252221660984,-3.6860962265452724
+242,Museo ABC,28015,Calle Amaniel 29 -31,40.42741121610518,-3.709539260414957
+243,Museo Arqueológico Nacional,28001,Calle Serrano 13,40.4232789604228,-3.6884121235090532
+244,Museo Casa de la Moneda,28028,Calle Doctor Esquerdo 36,40.42260021542579,-3.669139860245996
+245,Museo Los Caños del Peral. Estación de Metro Ópera,28013,Plaza Isabel Ii 1,40.41775560280743,-3.709202070089538
+246,Museo Lázaro Galdiano,28006,Calle Serrano 122,40.43675593917329,-3.6861820403705816
+247,Museo Nacional Centro de Arte Reina Sofía (MNCARS),28012,Calle Santa Isabel 52,40.40864029339671,-3.6939504103293244
+248,Museo Nacional Thyssen-Bornemisza,28014,Paseo Prado 8,40.41601631762229,-3.694738346891257
+249,Museo Nacional de Antropología,28014,Calle Alfonso Xii 68,40.407887537677716,-3.688862923660605
+250,Museo Nacional de Ciencias Naturales,28006,Calle Jose Gutierrez Abascal 2,40.44042600324054,-3.690212174964136
+251,Museo Naval,28014,Paseo Prado 3,40.417817776538435,-3.6927096854547727
+252,Museo Postal y Telegráfico,28023,Calle Tapia De Casariego 6,40.46772394620028,-3.7690769512163045
+253,Museo Tiflológico,28020,Calle La Coruña 18,40.45525267846033,-3.700169379369277
+254,Museo de América,28040,Avenida Reyes Catolicos 6,40.43793725485899,-3.7218544182655786
+255,Museo de Historia de la Comunidad Judía de Madrid,28010,Calle Balmes 3,40.43543567370733,-3.7000203622984
+256,Museo de Mineralogía,28049,Calle Francisco Tomas Y Valiente 7 Facultad De Ciencias - Departamento Geología Y Geoquímica,40.54537941407227,-3.6951833197962536
+257,Museo de la Catedral de la Almudena,28013,Calle Bailen 10,40.4155496711662,-3.7136674233151394
+258,Museo de la Real Academia de Bellas Artes de San Fernando,28014,Calle Alcala 13,40.4176555144213,-3.7006500629589394
+259,Museo del Ferrocarril de Madrid,28045,Paseo Delicias 61,40.40029003332906,-3.6938050319544646
+260,Museo del Prado,28014,Paseo Prado,40.41398191337691,-3.692164652993688
+261,Museo del Romanticismo,28004,Calle San Mateo 13,40.42585510296794,-3.6987835425963063
+262,Museo del Traje. Centro de Investigación del Patrimonio Etnológico (CIPE),28040,Avenida Juan De Herrera 2,40.439664788611644,-3.727822373257623
+263,Norte Joven Fuencarral,28029,Calle Ribadavia 20,40.472483367188964,-3.705094245869061
+264,Numen centro de atención integral,28027,Calle Tabatinga 11 Planta Baja,40.44417122224278,-3.632878961676391
+265,Oficina Joven TIVE - Moncloa,28015,Calle Fernando El Catolico 88,40.43442736874463,-3.717814046077588
+266,Oficina de Correos. Oficina Principal. Paseo del Prado,28014,Paseo Prado 1,40.41854475379762,-3.6925831204366806
+267,Oficina de Correos. Sucursal 01. Calle Villanueva,28001,Calle Villanueva 30,40.42229570582968,-3.685031222943612
+268,Oficina de Correos. Sucursal 02. Calle Luis Vives,28002,Calle Luis Vives 12,40.44416878584919,-3.6760049588552763
+269,Oficina de Correos. Sucursal 03. Calle Maudes,28003,Calle Maudes 39,40.44550988114284,-3.703715639815907
+270,Oficina de Correos. Sucursal 04. Calle General Ricardos,28025,Calle General Ricardos 212,40.385491074895796,-3.7377041871046353
+271,Oficina de Correos. Sucursal 05. Carrera de San Francisco,28005,Carrera San Francisco 13,40.41064690816609,-3.71326523335803
+272,Oficina de Correos. Sucursal 06. Calle Claudio Coello,28006,Calle Claudio Coello 100,40.433514379458366,-3.6854116299311532
+273,Oficina de Correos. Sucursal 07. Calle Palos de la Frontera,28012,Calle Palos De La Frontera 6 Y 10,40.4026769418955,-3.699922592201462
+274,Oficina de Correos. Sucursal 09. Calle Mártires Concepcionistas,28006,Calle Martires Concepcionistas 21,40.429178108197554,-3.6707043944326423
+275,Oficina de Correos. Sucursal 10. Calle Alburquerque,28010,Calle Alburquerque 2,40.43105607085537,-3.7027868433305215
+276,"Oficina de Correos. Sucursal 102. Avenida Ensanche de Vallecas, 106-108",28051,Avenida Ensanche De Vallecas 106,40.36101732172466,-3.595269711097358
+277,Oficina de Correos. Sucursal 13. Avenida América,28002,Avenida América 3,40.43802825312316,-3.677261878974946
+278,Oficina de Correos. Sucursal 15. Calle Jacinto Verdaguer,28019,Calle Jacinto Verdaguer 4,40.39632813120035,-3.714232582817688
+279,Oficina de Correos. Sucursal 18. Calle Pizarro,28004,Calle Pizarro 17,40.423388685598994,-3.7057453118624726
+280,Oficina de Correos. Sucursal 19. Calle Chile,28016,Calle Chile 4,40.45549377530472,-3.675966310011709
+281,Oficina de Correos. Sucursal 20. Calle Alcalde López Casero,28027,Calle Alcalde Lopez Casero 3,40.43254292663972,-3.65562126933923
+282,Oficina de Correos. Sucursal 21. Calle Antonio Arias,28009,Calle Antonio Arias 2,40.41770973340183,-3.6716242209111143
+283,Oficina de Correos. Sucursal 24. Plaza Párroco Luis Calleja,28022,Plaza Parroco Luis Calleja 12,40.44481238937044,-3.6116243178327765
+284,Oficina de Correos. Sucursal 25. Calle Mariano Fernández,28039,Calle Mariano Fernandez 1,40.456036880513324,-3.702976306097833
+285,Oficina de Correos. Sucursal 26. Calle Longares,28022,Calle Longares 30,40.42936538178852,-3.6094447060053985
+286,Oficina de Correos. Sucursal 27. Calle Dobla,28054,Calle Dobla 5,40.37290649477108,-3.7403628652825907
+287,Oficina de Correos. Sucursal 31. Calle Islas Palaos,28034,Calle Islas Palaos 30,40.49758178029607,-3.686383144831721
+288,Oficina de Correos. Sucursal 32. Plaza Rogelio Enríquez,28048,Plaza Rogelio Enriquez 5,40.518981561490214,-3.776885315898705
+289,Oficina de Correos. Sucursal 33. Calle Caroli,28023,Calle Caroli 10,40.45856528825536,-3.7847691023498133
+290,Oficina de Correos. Sucursal 35. Hermanos García Noblejas,28037,Calle Hermanos Garcia Noblejas 30,40.43439348666636,-3.6357626174269013
+291,Oficina de Correos. Sucursal 36. Calle Orense,28020,Calle Julias Besteiro  Esquina San Germán,40.45616701557968,-3.6948634973218035
+292,Oficina de Correos. Sucursal 37. Calle Marqués de Corbera,28017,Avenida Marques De Corbera 27,40.42446104513565,-3.6540081882328206
+293,Oficina de Correos. Sucursal 38. Calle Sierra de Gador,28031,Calle Sierra Gador 50,40.38051334670954,-3.6237027609559447
+294,Oficina de Correos. Sucursal 39. Calle Arroyo de la Media Legua,28030,Calle Arroyo De La Media Legua 56,40.410116832157726,-3.6556260950915007
+295,Oficina de Correos. Sucursal 40. Calle Tellez,28007,Calle Tellez 27,40.40214507889863,-3.6788229825703045
+296,Oficina de Correos. Sucursal 41. Calle Sáhara,28041,Calle Sahara 42 Y 44,40.35492358950809,-3.6921377080816002
+297,Oficina de Correos. Sucursal 42. Centro Comercial La Vaguada,28029,Avenida Monforte De Lemos 36,40.47903297218874,-3.7082641886598307
+298,Oficina de Correos. Sucursal 44. Calle Padre Rubio,28029,Calle Padre Rubio 43,40.470947736229036,-3.6938673337968386
+299,Oficina de Correos. Sucursal 45. Avenida Valladolid,28008,Avenida Valladolid 39,40.42829328509926,-3.7293476314297576
+300,Oficina de Correos. Sucursal 46. Calle Guzmán el Bueno,28003,Calle Guzman El Bueno 86,40.439892564074825,-3.7126494705098794
+301,Oficina de Correos. Sucursal 47. Calle Mar Caspio,28033,Calle Mar Caspio 10,40.473095977217504,-3.6435145549430854
+302,Oficina de Correos. Sucursal 49. Calle Condesa Vega del Pozo,28032,Calle Condesa Vega Del Pozo 29 Y 31,40.40325111277619,-3.6061438215013597
+303,Oficina de Correos. Sucursal 50. Avenida Padre Piquer,28024,Avenida Padre Piquer 13,40.394081623478144,-3.7673907712487185
+304,Oficina de Correos. Sucursal 51. Calle Virgen de Aránzazu,28034,Calle Virgen De Aranzazu 31,40.4871356977373,-3.6896596801670634
+305,Oficina de Correos. Sucursal 52. Calle Monte Olivetti,28038,Calle Monte Oliveti 29,40.39776621323686,-3.6665122141546047
+306,Oficina de Correos. Sucursal 53. Calle Conde de Peñalver,28006,Calle Conde De Peñalver 19 Bis,40.426613479485574,-3.6757798786868143
+307,Oficina de Correos. Sucursal 54. Calle Cardenal Herrera Oria,28035,Avenida Cardenal Herrera Oria 241,40.481446670155364,-3.7193176288388594
+308,Oficina de Correos. Sucursal 56. Calle Carlina,28011,Calle Carlina 8,40.40465597246432,-3.7512476775134034
+309,Oficina de Correos. Sucursal 57. Plaza Movimiento Ciudadano,28041,Plaza Movimiento Ciudadano 1,40.37053616654782,-3.7082003347653036
+310,Oficina de Correos. Sucursal 58. Universidad Autónoma Cantoblanco,28049,Calle Kant  Sin Número,40.544692759785605,-3.695129566611724
+311,Oficina de Correos. Sucursal 59. Calle Alanis,28042,Calle Alanis 1,40.47135843924354,-3.5830660908226903
+312,Oficina de Correos. Sucursal 60. Calle Arquitecto López Otero,28040,Calle Arquitecto Lopez Otero 3,40.444068389479135,-3.728327224432944
+313,Oficina de Correos. Sucursal 61. Camino Hormigueras,28031,Camino Hormigueras 169,40.37703404923573,-3.634643331575298
+314,Oficina de Correos. Sucursal 62. Calle La Rioja. Alameda de Osuna,28042,Calle La Rioja 11,40.457362597027284,-3.589017977491221
+315,Oficina de Correos. Sucursal 64. Aeropuerto T1. Llegadas Sala 1,28042,Aeropuerto T1 T2 T3  Sala 1 (Llegadas),40.46385545153997,-3.5703913955201196
+316,Oficina de Correos. Sucursal 66. Plaza Pablo Ruiz Picasso,28020,Plaza Pablo Ruiz Picasso 1,40.45025334832397,-3.69226701497804
+317,Oficina de Correos. Sucursal 72. Calle Santiago Alio,28038,Calle Santiago Alio 10 A,40.38841360086152,-3.6460842169021253
+318,Oficina de Correos. Sucursal 77. Calle Eduardo Barreiros,28041,Calle Eduardo Barreiros 3 Y 5,40.37325750682071,-3.695713833509448
+319,Oficina de Correos. Sucursal 78. Centro Comercial Valdebernardo,28032,Bulevar Jose Prat 35,40.39746132930795,-3.61869672243111
+320,Oficina de Correos. Sucursal 82. Avenida Santuario de Valverde,28049,Avenida Santuario De Valverde 45,40.5078114302752,-3.6970014367169752
+321,Oficina de Correos. Sucursal 88. Calle Mejía Lequerica,28004,Calle Mejia Lequerica 7,40.42656451494342,-3.6982135988915323
+322,Oficina de Correos. Sucursal 92. Eroski Avenida Pablo Neruda,28018,Avenida Pablo Neruda 91,40.38124861077734,-3.661315707382362
+323,"Oficina de Correos. Sucursal 99. Calle Pegaso, 24",28043,Calle Pegaso 24,40.46463698511218,-3.649347768217586
+324,Oficina de Empleo Aluche,28047,Calle Illescas 189,40.392285536075406,-3.7540592697796
+325,Oficina de Empleo Argüelles,28008,Calle Evaristo San Miguel 8,40.4269999607158,-3.7151852882793324
+326,Oficina de Empleo Atocha,28045,Calle Mendez Alvaro 7,40.4014859050885,-3.686498434986489
+327,Oficina de Empleo Barrio de la Concepción,28027,Calle Virgen Del Puig 5,40.43302043648714,-3.6592278136167593
+328,Oficina de Empleo Barrio del Pilar,28035,Camino Ganapanes 33,40.47515431070906,-3.715859850501782
+329,Oficina de Empleo Ciudad Lineal,28037,Calle Miguel Yuste 21,40.4389993512383,-3.6244743878443426
+330,Oficina de Empleo Estrecho - Azca,28020,Plaza Pablo Ruiz Picasso  Edificio Serantes,40.45027838360869,-3.6928216467519706
+331,Oficina de Empleo Goya,28009,Calle O'Donnell 12,40.421479994324876,-3.6779144388762455
+332,Oficina de Empleo Legazpi,28005,Paseo Acacias 23,40.403922872263166,-3.7059611474688716
+333,Oficina de Empleo Moratalaz,28030,Calle Hacienda De Pavones 350,40.39939301427503,-3.633595070229571
+334,Oficina de Empleo Nueva Numancia,28038,Calle Francisco Iglesias 9,40.39929179545344,-3.666674681340595
+335,Oficina de Empleo Prosperidad,28002,Calle Canillas 104,40.443603497732,-3.6682028813365495
+336,Oficina de Empleo Puerta del Angel,28011,Glorieta Puente De Segovia 3,40.41440675319798,-3.724550354806042
+337,Oficina de Empleo San Isidro,28019,Calle Tejares 4,40.39592190986665,-3.7214488770479544
+338,Oficina de Empleo Sanchinarro,28050,Avenida Ingeniero Emilio Herrera 23,40.4926010976462,-3.6530694201332135
+339,Oficina de Empleo Santa Eugenia,28031,Calle Cabeza Mesada 5,40.37666661616366,-3.6294419610261675
+340,Oficina de Empleo Usera,28026,Calle Antonio Lopez 101,40.39200765849677,-3.7035660685820786
+341,Oficina de Empleo Villaverde,28021,Calle Salsipuedes 7,40.34456088140221,-3.7060631890555875
+342,Oficina de Empleo Águeda Díez,28019,Plaza Agueda Diez 4,40.39006966384194,-3.7322051586802956
+343,Oficina de Tramitación de DNI y Pasaporte (Usera-Villaverde 1),28041,Paseo Gigantes Y Cabezudos 30,40.35756885956982,-3.6938620027962017
+344,Oficina de Tramitación del DNI y Pasaporte (Arganzuela),28005,Paseo Virgen Del Puerto 47,40.409032730721066,-3.72102562946306
+345,Oficina de Tramitación del DNI y Pasaporte (Centro),28004,Calle Luna 17,40.422778742362766,-3.7068972211928237
+346,Oficina de Tramitación del DNI y Pasaporte (Puente de Vallecas),28053,Calle Sierra Carbonera 35,40.392027119673116,-3.664047609780907
+347,Oficina de Tramitación del DNI y Pasaporte (Santa Engracia),28010,Calle Santa Engracia 18,40.429938760374306,-3.6963606807471283
+348,Oficina de Tramitación del DNI y Pasaporte (Tetuán),28029,Calle Santa Valentina 2,40.465233439290174,-3.6973999987155355
+349,Oficina de Tramitación del DNI y Pasaporte Doce de Octubre,28009,Calle Doce De Octubre 7,40.415742520403235,-3.676814421836066
+350,Oficina de Tramitación del DNI y Pasaporte Padre Piquer,28024,Avenida Padre Piquer 18,40.392946827991885,-3.7679629035205826
+351,Oficina de Tramitación del DNI y Pasaporte San Felipe,28020,Calle San Felipe 7,40.461546304166134,-3.696837823087746
+352,Palacio Real de El Pardo,28048,Calle Manuel Alonso 8,40.520535786694516,-3.7762260009975077
+353,Palacio Real de Madrid,28013,Calle Bailen,40.42075212551193,-3.712699107286406
+354,Palacio de Congresos de Madrid,28046,Paseo Castellana 99,40.45291682696952,-3.6915161044438873
+355,Palacio de Cristal,28009,Paseo Republica De Cuba 4,40.4135392554384,-3.6822730243555983
+356,Palacio de Liria,28008,Calle Princesa 20,40.426837593736934,-3.7126361453494083
+357,Palacio de Velázquez,28009,Paseo Venezuela 2,40.41525240333681,-3.6820310209320355
+358,Panteón de España,28014,Calle Julian Gayarre 3,40.40622617519116,-3.683413041846525
+359,Parque Biológico de Madrid. Faunia,28032,Avenida Comunidades 2,40.392916788449966,-3.6115446539537746
+360,Parque Deportivo Puerta de Hierro,28023,Carretera De La Coruña  Kilómetro 7,40.463352206633466,-3.749646028757586
+361,Parroquia San Jenaro,28017,Calle Vital Aza 81,40.43390107778406,-3.6377862093930045
+362,Parroquia Santa Eulalia de Mérida,28053,Calle Pedroches 5,40.3796743689357,-3.669903376835299
+363,Parroquia Santos Inocentes,28045,Calle Embajadores 209,40.38711705327618,-3.6903264029480414
+364,Parroquia Santísima Trinidad,28027,Calle Martinez Villergas 8,40.43985461065547,-3.652204514397629
+365,Plaza de Misterios. Recinto Ferial.,28027,Calle Misterios 1,40.43817493765838,-3.639079477475124
+366,Real Basílica San Francisco el Grande,28005,Calle San Buenaventura 1,40.41084698628934,-3.714492963837602
+367,Residencia Mirasierra para personas con discapacidad intelectual gravemente afectadas y centro de día CAMP Mirasierra,28034,Calle La Maso 40,40.48891397639459,-3.714174858198665
+368,Residencia Universitaria Augustinus Nebrija,28003,Calle Cea Bermudez 59,40.43894007585974,-3.715531702478502
+369,Residencia Universitaria Erasmo,28049,Calle Erasmo De Rotterdam 5 Y 7,40.548027795931425,-3.6989970922329403
+370,Residencia de Estudiantes Ciudad Escolar. Comunidad de Madrid.,28049,"Carretera Colmenar Viejo  Km. 12,800",40.52514591809954,-3.6853908329744214
+371,Residencia de estudiantes Palacio de Barradas,28015,Calle San Bernardo 63,40.42645825034476,-3.706923606244769
+372,Residencia para mayores Juan XXIII (Aravaca),28023,Calle Procion 10,40.46695653201016,-3.800357931119678
+373,Residencia para mayores y centro de día Peñuelas,28005,Calle Arganda 11,40.401285030322434,-3.7065898502689305
+374,Residencia para personas con discapacidad intelectual gravemente afectadas y centro de día Dos de Mayo,28050,Calle Oña 1,40.488759291577466,-3.6692759234018726
+375,Residencia y centro de día Carmen Sevilla,28017,Calle Gabriel Montero 1,40.4245996910244,-3.631038633473549
+376,Residencia y centro de rehabilitación Duques de Lugo,28024,Calle Adonis 1,40.3866197264309,-3.773910285133272
+377,"Residencia, centro de día y centro ocupacional Götze",28023,Carretera Castilla 5,40.449783762790766,-3.762794547009638
+378,"Residencia, centro de día y centro ocupacional Ángel de la Guarda",28017,Avenida Daroca 60,40.42924259133015,-3.6525226176295886
+379,Sala Alcalá 31,28014,Calle Alcala 31,40.41843670648918,-3.6982793817036095
+380,Sala El Águila,28045,Calle Ramirez De Prado 3,40.399909791771385,-3.690036015115312
+381,Sala de Arte Joven,28002,Avenida America 13,40.438539317590326,-3.6763910763792356
+382,Sala de exposiciones Fundación Canal (Castellana 214),28046,Paseo Castellana 214,40.464536165462995,-3.688875151381724
+383,"Sala de exposiciones Fundación Canal (Mateo Inurria, 2)",28036,Calle Mateo Inurria 2,40.46622174764843,-3.6876221093298858
+384,Sala de exposiciones Fundación MAPFRE Recoletos,28004,Paseo Recoletos 23,40.42260253908611,-3.692173020829667
+385,Sede QuedaT.com Arganzuela,28045,Calle Juana Doña 7,40.39667059254093,-3.6927006496252734
+386,Sede QuedaT.com Barajas,28042,Calle Autogiro 1,40.47148955937163,-3.5835224544744246
+387,Sede QuedaT.com Carabanchel,28025,Calle Ramon Sainz 27,40.38746909666602,-3.7380448207371186
+388,Sede QuedaT.com Centro,28012,Calle Juanelo 2,40.41153598886298,-3.7047035734411815
+389,Sede QuedaT.com Fuencarral-El Pardo (Centro Comunitario Guatemala),28029,Calle Celanova 2,40.47185296971466,-3.714201462972278
+390,Sede QuedaT.com Hortaleza,28033,Calle Mar Amarillo 4,40.47406962687357,-3.6418692032092244
+391,Sede QuedaT.com Latina,28047,Calle La Latina 25,40.40085960588277,-3.7511711816106574
+392,Sede QuedaT.com Moratalaz,28030,Calle Corregidor Alonso De Tobar 15,40.40329815724403,-3.648998492986909
+393,Sede QuedaT.com Puente de Vallecas,28053,Calle Cardeñosa 18,40.38400091966163,-3.6716744351747495
+394,Sede QuedaT.com San Blas-Canillejas,28022,Calle San Faustino 14,40.446296275279785,-3.609097267544673
+395,Sede QuedaT.com Tetuán,28029,Calle Cedros 3,40.467177049542634,-3.6926931830431684
+396,Sede QuedaT.com Usera,28026,Calle Miramadrid 1,40.381420287227456,-3.705750925489145
+397,Sede QuedaT.com Vicálvaro,28032,Plaza Juan Benet 9,40.40030574825312,-3.6234476042175245
+398,Sede QuedaT.com Villa de Vallecas,28031,Calle Sierra Gador 19,40.38067712357496,-3.623871439460315
+399,Sede QuedaT.com Villaverde,28021,Calle Albino Hernández Lázaro 36,40.3424606241053,-3.6868592972544674
+400,Servicio de Documentación y Biblioteca de la Asamblea de Madrid,28018,Plaza Asamblea De Madrid 1,40.382315003385784,-3.6634853462680566
+401,Servicios centrales. Servicio Público de Empleo Estatal,28016,Calle Victor De La Serna 43,40.457773436215966,-3.6721149021253314
+402,Tanatorio Parque de San Isidro de Madrid,28019,Calle Comuneros De Castilla 15,40.39831970599801,-3.7230877827472364
+403,Tanatorio Sur de Madrid,28054,Calle Ildefonso Gonzalez Valencia 1,40.373252366971855,-3.7215898776398064
+404,Teatro Municipal de Títeres. Parque de El Retiro,28009,Avenida México 4 Parque De El Retiro. Entrada Por Puerta De La Independencia,40.41878362561595,-3.6866519471003647
+405,Teatros del Canal,28003,Calle Cea Bermudez 1,40.438548128643944,-3.7050571160614263
+406,WiZink Center,28009,Calle Jorge Juan 99,40.4232728637422,-3.672100625564379
+407,Yacimiento paleontológico. Estación de Metro Carpetana,28047,Calle Via Carpetana 141,40.39254099575156,-3.7413026173286053
