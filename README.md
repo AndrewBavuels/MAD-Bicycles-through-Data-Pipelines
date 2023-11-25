@@ -20,7 +20,7 @@ With the previous,  **the main challenge** was creating a Python App that allows
 
 ![Image](<https://www.bicimad.com/sites/default/files/styles/news_teaser/public/2023-07/Estaci%C3%B3n%20bicimad%20Museo%20Reina%20Sof%C3%ADa.jpg.webp?itok=AhKkKtGe alt="Image" width="200" height="100">)
 
-## **2. Minimal Functional App 🌡️**
+## **2. Minimal Functional App ⚙️**
 
 The Data Pipeline implemented allows the user from the Terminal with command-lines, to search for and **find an specific place** of interest to visit. Or, to **find a set of places** by entering a keyword related to. Both are exported into a csv file that, besides the placse of interest, they contain as well:
 
