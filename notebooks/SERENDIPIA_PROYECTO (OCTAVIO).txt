@@ -1,5 +1,0 @@
-**Octavio:**
-
-Crear una app de usuario en silla de ruedas que necesita ir a un sitio.
-
-Meterle el lugar de destino y ver si está adaptado a acceso de movilidad reducida.
