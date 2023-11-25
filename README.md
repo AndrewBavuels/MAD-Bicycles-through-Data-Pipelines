@@ -36,7 +36,7 @@ For example: the main script is executed in the terminal to get information abou
 ```
 python main.py --bicimad --lugar "mueso"
 ```
-As you can see, the word museo was misspelled (museo). Despite the typo error, you will get related places from the keyword:
+As you can see, the word museo was misspelled (mueso). Despite the typo error, you will get related places from the keyword:
 
 | Place of interest  | BiciMAD address | Bikes available  |
 | ------------ | ------------ | ------------ |
