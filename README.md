@@ -1,4 +1,4 @@
-# **Project Module 1 - MAD Bicycles through Data Pipelines🚵🟰🚴**
+# **MAD Bicycles through Data Pipelines🚵🟰🚴**
 
 The main reason why you should review this project is to get an approach about Data Pipelines. **Furthermore,** to show the potential of big data processing prior to AI and Machine Learning development.
 
@@ -6,9 +6,7 @@ The main reason why you should review this project is to get an approach about D
 
 
 ## 1. Project description 👇
-> Project Module 1 - Part time Sept 2023 - [Ironhack Madrid - Data Analytics Bootcamp](https://www.ironhack.com/es-en/data-analytics)
-
-To put into practice what we have learned during Module 1, I was given **two datasources** related to geolocation coordinates as follows: 
+To put into practice what I have learned, I was given **two datasources** related to geolocation coordinates as follows: 
 
 - `CSV Files:`  All the BiciMAD and Bicipark stations with their location (latitude / longitude) 🌐
 - Using an `API REST` from [Madrid City Council open data portal ](https://datos.madrid.es/nuevoMadrid/swagger-ui-master-2.2.10/dist/index.html?url=/egobfiles/api.datos.madrid.es.json#/) 💻
